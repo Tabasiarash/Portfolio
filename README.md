@@ -3,7 +3,7 @@
 Machine Learning • Computer Vision • Data Analytics • Python
 📍 Munich, Germany
 
-🔗 LinkedIn: https://chatgpt.com/c/6949c819-fac0-832a-9f28-529def336c35#:~:text=%F0%9F%94%97-,LinkedIn,-%F0%9F%A4%97%20Hugging%20Face
+🔗 LinkedIn: https://www.linkedin.com/in/arash-tabassi-55477b22b/?skipRedirect=true
 
 🤗 Hugging Face: https://huggingface.co/mediaportal?utm_source=chatgpt.com
 
