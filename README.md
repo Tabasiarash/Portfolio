@@ -3,13 +3,14 @@
 Machine Learning • Computer Vision • Data Analytics • Python
 📍 Munich, Germany
 
-🔗 LinkedIn
+🔗 LinkedIn: https://chatgpt.com/c/6949c819-fac0-832a-9f28-529def336c35#:~:text=%F0%9F%94%97-,LinkedIn,-%F0%9F%A4%97%20Hugging%20Face
 
-🤗 Hugging Face
+🤗 Hugging Face: https://huggingface.co/mediaportal?utm_source=chatgpt.com
 
-📊 Kaggle
+📊 Kaggle: https://www.kaggle.com/work
 
-📧 tabasiarash@gmail.com
+
+📧 Email: tabasiarash@gmail.com
 
 🚀 About Me
 
@@ -102,6 +103,3 @@ Smart infrastructure and human-centered AI
 
 If you’re working on AI, ML, Computer Vision, or Data Analytics projects, feel free to connect or explore my repositories.
 
-📧 tabasiarash@gmail.com
-
-🔗 LinkedIn
